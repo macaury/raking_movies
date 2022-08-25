@@ -1,11 +1,16 @@
+<<<<<<< HEAD
 .container,
 .title {
+=======
+.container , .title{
+>>>>>>> 5d8e42dae0445955f09362b5782ee7c4265d8c3c
     color: #fff;
     font-size: 2.5rem;
     text-align: center;
     margin: 2rem 0 1rem;
 }
 
+<<<<<<< HEAD
 .title,
 .query-text {
     color: #f7d354;
@@ -44,3 +49,15 @@
 .movies-container div svg {
     color: #f7d354;
 }
+=======
+.title , .query-text{
+    color:  #f7d354;
+
+}
+
+.movies-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+>>>>>>> 5d8e42dae0445955f09362b5782ee7c4265d8c3c
