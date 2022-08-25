@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
     "i": "^0.3.7",
     "nom": "^0.0.3",
     "or": "^0.2.0",
