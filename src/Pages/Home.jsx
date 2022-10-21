@@ -18,15 +18,13 @@ const Home = () => {
 
   useEffect(() => {
     const topRatedUrl = `${moviesURL}top_rated?${apiKey}`;
-    //console.log(topRatedUrl);
+  
     getTopRatedMovies(topRatedUrl);
   }, []);
 
-console.log(topMovies);
-
   return (
     <div className="container">
-      <h2 className="title">The Best Movies:</h2>
+      <h1 className="title">The Best Movies:</h1>
       <div className="movies-container">
         {topMovies.length > 0 &&
           topMovies.map((movie) => <MovieCard key={movie.id} movie={movie} />)}

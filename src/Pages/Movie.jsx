@@ -58,7 +58,7 @@ const Movie = () => {
                         <h3>
                             <BsFillFileEarmarkTextFill/>Description:
                         </h3>
-                        <p>{movie.overview}</p>
+                        <p className="DescriptionPlus">{movie.overview}</p>
                     </div>
                 </>
             )}
