@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
-![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/raking_movies)
+![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/ranking_movies)
 
 
 # 🎥 Sobre o Ranking Movies 
