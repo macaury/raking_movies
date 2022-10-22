@@ -1,7 +1,7 @@
 
 ## Topicos
 
-- [Descrição sobre o Ranking Movies](#🎥-Descrição-sobre-o-Ranking-Movies)
+- [Descrição sobre o Ranking Movies](#-🎥-Descrição-sobre-o-Ranking-Movies)
 
 
 ## 📬 Contatos 
