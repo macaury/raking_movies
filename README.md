@@ -1,9 +1,8 @@
-## Authors ✒️
+## ✒️ Autor
 
 - [@macaury](https://www.github.com/macaury)
 
-
-## Contatos 📬
+## 📬 Contatos 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
@@ -12,7 +11,8 @@
 ![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/raking_movies)
 
 
-# Sobre o Projeto
+# Sobre o Projeto Ranking Movies
+
 
 O projeto consiste numa "plataforma" que utiliza API  da *the moviedb* que eh um banco de dados com diversas informacoes sobre filmes.
 
@@ -39,11 +39,12 @@ O projeto consiste numa "plataforma" que utiliza API  da *the moviedb* que eh um
 ## Screenshots 📷
 
 ###### *Tela principal*
+![Tela principal]( https://user-images.githubusercontent.com/64115668/197311438-a9878d71-4da1-4b57-8b83-2451ff11c253.jpeg)
 
-![Tela principal](https://github.com/macaury/Lista-de-tarefas/blob/main/Screenshots/tela%20Principal.jpeg)
+###### *Detalhe do filme*
+![Detalhe do filme](https://user-images.githubusercontent.com/64115668/197311445-860da38a-ecef-4c06-82cd-8863c70516eb.jpeg)
 
-###### *Tarefa*
-![Tela da Tarefa](https://github.com/macaury/Lista-de-tarefas/blob/main/Screenshots/WhatsApp%20Image%202022-10-21%20at%204.50.19%20PM.jpeg)
+###### *Pesquisa dos filmes*
+![Pesquisa dos filmes](https://user-images.githubusercontent.com/64115668/197311447-f82c5f5d-fd5e-4d0b-ba68-c212d895b587.jpeg)
 
-###### *Dispositivos moveis*
-![Em dispositivos moveis](https://github.com/macaury/Lista-de-tarefas/blob/main/Screenshots/tarefa.jpeg)
+
