@@ -6,7 +6,7 @@
 </p>
 
 
-## Topicos 
+## Tópicos 
 
 - [🎥 Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
 - [👨‍💻 Tecnologias utilizadas](#Tecnologias-utilizadas)
@@ -21,7 +21,7 @@
 # Descrição sobre o Ranking Movies
 
 <p align="justify">
-O projeto consiste numa plataforma que utiliza API da *the moviedb*, que permite diversas informacoes sobre filmes e faz um ranking com os melhores filmes. Ao clicar em *Details* o usuario possui acesso a receita de bilheteria, capital investido, tempo de exibicao da pelicula e uma sinopse.
+O projeto consiste numa plataforma que utiliza API da *The Movie Data Base*, que permite diversas informacoes sobre filmes e faz um ranking com os melhores filmes. Ao clicar em *Details* o usuário possui acesso a receita de bilheteria, capital investido, tempo de exibição da pelicula e uma sinopse.
 </p>
 
 ## Funcionalidades
@@ -92,7 +92,7 @@ Para utilizar a API é necessario ter credênciais na plataforma.
 
 - https://developers.themoviedb.org/3/authentication/how-do-i-generate-a-session-id
 
-Proxima etapa
+Próxima etapa
 
 Criar o arquivo .ENV , na pasta /src :
 
