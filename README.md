@@ -1,6 +1,10 @@
 
-## Topicos
+## Topicos 
 
+- [Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
+- [Tecnologias utilizadas ](#Tecnologias-utilizadas)
+- [S.O utilizado ](#S.O-utilizado)
+- [📼 Playlist utilizada](#Playlist-utilizada)
 - [Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
 
 
@@ -27,7 +31,7 @@ O projeto consiste numa plataforma que utiliza API da *the moviedb*, que permite
 :heavy_check_mark: `Funcionalidade 3:` Acesso a detalhes como orçamento, bilheteria, sinopse e duração de filmes em um só lugar.
 
 
-## 👨‍💻 Tecnologias utilizadas 
+## Tecnologias utilizadas
  
 ![Estilo em Cascata](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
@@ -39,11 +43,11 @@ O projeto consiste numa plataforma que utiliza API da *the moviedb*, que permite
 
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-#### 🖥️ S.O utilizado 
+#### S.O utilizado
 
 ![Sistema Operacional](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### 📼 Playlist utilizada 
+#### Playlist utilizada
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1E4xLkk6PvMhnr?si=IJIohQMyT9WikBhK2t2-2g&utm_source=whatsapp)
 
