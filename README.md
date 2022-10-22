@@ -1,9 +1,9 @@
 
 ## Topicos 
 
-- [Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
-- [Tecnologias utilizadas ](#Tecnologias-utilizadas)
-- [S.O utilizado ](#S.O-utilizado)
+- [🎥 Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
+- [👨‍💻 Tecnologias utilizadas ](#Tecnologias-utilizadas)
+- [🖥️ S.O utilizado ](#S.O-utilizado)
 - [📼 Playlist utilizada](#Playlist-utilizada)
 - [Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
 
