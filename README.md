@@ -13,7 +13,7 @@
 ![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/ranking_movies)
 
 
-# Descrição sobre o Ranking Movies
+# 🎥 Descrição sobre o Ranking Movies
 
 
 O projeto consiste numa plataforma que utiliza API da *the moviedb*, que permite diversas informacoes sobre filmes e faz um ranking com os melhores filmes. Ao clicar em *Details* o usuario possui acesso a receita de bilheteria, capital investido, tempo de exibicao da pelicula e uma sinopse.
