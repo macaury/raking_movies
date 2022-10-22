@@ -47,4 +47,29 @@ O projeto consiste numa plataforma que utiliza API da *the moviedb*, que permite
 ###### *Pesquisa dos filmes*
 ![Pesquisa dos filmes](https://user-images.githubusercontent.com/64115668/197311447-f82c5f5d-fd5e-4d0b-ba68-c212d895b587.jpeg)
 
+## Para rodar o projeto na sua maquina 
+
+Clone o repositorio
+
+```bash
+  git clone https://github.com/macaury/ranking_movies.git
+```
+
+Entre no diretorio do projeto
+
+```bash
+  cd ranking_movies
+```
+
+Instale as dependencias
+
+```bash
+  npm install
+```
+
+Inicie o Servidor Local
+
+```bash
+  npm run dev
+```
 
