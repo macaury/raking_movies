@@ -11,12 +11,12 @@
 ![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/raking_movies)
 
 
-# Sobre o Projeto Ranking Movies
+# 🎥 Sobre o Ranking Movies 
 
 
-O projeto consiste numa "plataforma" que utiliza API  da *the moviedb* que eh um banco de dados com diversas informacoes sobre filmes.
+O projeto consiste numa plataforma que utiliza API da *the moviedb*, que permite diversas informacoes sobre filmes e faz um ranking com os melhores filmes. Ao clicar em *Details* o usuario possui acesso a receita de bilheteria, capital investido, tempo de exibicao da pelicula e uma sinopse.
 
-## Tecnologias utilizadas 🖥️
+## 👨‍💻 Tecnologias utilizadas 
  
 ![Estilo em Cascata](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
@@ -28,15 +28,15 @@ O projeto consiste numa "plataforma" que utiliza API  da *the moviedb* que eh um
 
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-#### S.O utilizado 
+#### 🖥️ S.O utilizado 
 
 ![Sistema Operacional](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-#### Playlist utilizada 🔥
+#### 📼 Playlist utilizada 
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1E4xLkk6PvMhnr?si=IJIohQMyT9WikBhK2t2-2g&utm_source=whatsapp)
 
-## Screenshots 📷
+## 📷 Screenshots 
 
 ###### *Tela principal*
 ![Tela principal]( https://user-images.githubusercontent.com/64115668/197311438-a9878d71-4da1-4b57-8b83-2451ff11c253.jpeg)
