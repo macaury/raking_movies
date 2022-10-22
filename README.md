@@ -1,6 +1,8 @@
-## ✒️ Autor
 
-- [@macaury](https://www.github.com/macaury)
+## Topicos
+
+- [Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
+
 
 ## 📬 Contatos 
 
@@ -11,10 +13,19 @@
 ![Tamanho do repositorio](https://img.shields.io/github/repo-size/macaury/ranking_movies)
 
 
-# 🎥 Sobre o Ranking Movies 
+# Descrição sobre o Ranking Movies
 
 
 O projeto consiste numa plataforma que utiliza API da *the moviedb*, que permite diversas informacoes sobre filmes e faz um ranking com os melhores filmes. Ao clicar em *Details* o usuario possui acesso a receita de bilheteria, capital investido, tempo de exibicao da pelicula e uma sinopse.
+
+## Funcionalidades
+
+:heavy_check_mark: `Funcionalidade 1:` Lista dos melhores filmes da história.
+
+:heavy_check_mark: `Funcionalidade 2:` Permite pesquisar sobre qualquer filme para saber o seu Rating.
+
+:heavy_check_mark: `Funcionalidade 3:` Acesso a detalhes como orçamento, bilheteria, sinopse e duração de filmes em um só lugar.
+
 
 ## 👨‍💻 Tecnologias utilizadas 
  
@@ -73,3 +84,6 @@ Inicie o Servidor Local
   npm run dev
 ```
 
+## ✒️ Autor
+
+- [@macaury](https://www.github.com/macaury)
