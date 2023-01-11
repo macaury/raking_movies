@@ -13,7 +13,7 @@
 
 ## Tópicos 
 
-- [🎥 Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies)
+- [🎥 Descrição sobre o Ranking Movies](#Descrição-sobre-o-Ranking-Movies) (# Descrição sobre o Ranking Movies)
 - [👨‍💻 Tecnologias utilizadas](#Tecnologias-utilizadas)
 - [🖥️ S.O utilizado](#S.O-utilizado)
 - [📼 Playlist](#Playlist-utilizada)
