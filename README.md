@@ -1,3 +1,8 @@
+## Plataforma 
+
+###### *Tela principal*
+![Tela principal]( https://user-images.githubusercontent.com/64115668/197311438-a9878d71-4da1-4b57-8b83-2451ff11c253.jpeg)
+
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=RED&style=for-the-badge"/>
 </p>
@@ -49,16 +54,7 @@ O projeto consiste numa plataforma que utiliza API da *The Movie Data Base*, que
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1E4xLkk6PvMhnr?si=IJIohQMyT9WikBhK2t2-2g&utm_source=whatsapp)
 
-## Plataforma 
 
-###### *Tela principal*
-![Tela principal]( https://user-images.githubusercontent.com/64115668/197311438-a9878d71-4da1-4b57-8b83-2451ff11c253.jpeg)
-
-###### *Detalhe do filme*
-![Detalhe do filme](https://user-images.githubusercontent.com/64115668/197311445-860da38a-ecef-4c06-82cd-8863c70516eb.jpeg)
-
-###### *Pesquisa dos filmes*
-![Pesquisa dos filmes](https://user-images.githubusercontent.com/64115668/197311447-f82c5f5d-fd5e-4d0b-ba68-c212d895b587.jpeg)
 
 ## Como rodar o projeto na sua maquina
 
@@ -72,12 +68,6 @@ Entre no diretorio do projeto
 
 ```bash
   cd ranking_movies
-```
-
-Instale as dependências
-
-```bash
-  npm install
 ```
 
 Inicie o Servidor Local
