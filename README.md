@@ -17,7 +17,6 @@
 - [👨‍💻 Tecnologias utilizadas](#Tecnologias-utilizadas)
 - [🖥️ S.O utilizado](#S.O-utilizado)
 - [📼 Playlist](#Playlist-utilizada)
-- [🌐 Plataforma](#Plataforma)
 - [📁 Como rodar o projeto na sua maquina](#Como-rodar-o-projeto-na-sua-maquina)
 - [📡 API The Movie Data Base ](#API-The-Movie-Data-Base)
 - [✒️ Autor](#Autor)
